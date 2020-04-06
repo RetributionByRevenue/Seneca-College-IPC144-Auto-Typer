@@ -1,5 +1,5 @@
 # Seneca-College-IPC144-Auto-Typer
-Gif too small to see on mobile view!!!
+**Gif too small to see on mobile view!!!***
 ![](https://github.com/RetributionByRevenue/Seneca-College-IPC144-Auto-Typer/blob/master/test2.gif?raw=true)
 
 Enough is enough, seneca college IPC144 Milestone 4 is by far the biggest time wasting assignment of my life.
