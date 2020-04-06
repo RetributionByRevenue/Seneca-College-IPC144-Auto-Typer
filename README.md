@@ -7,10 +7,12 @@ Given i am already an experienced programmer suffering away in BS classes, i wen
 
 This will work only on Linux (Linux people are based) and Windows. (I do not support Mac OS nor do i like people that use macbooks)
 
-How it works and Insturctions?
+**How it works and Insturctions**
+
+
 You need to download from the link provided below. You will download a zip file and there is a txt file containing detailed instructions. 
 
-Brief summary:
+**Brief summary:**<br>
 In short, i have included a portable python compiler and python program that will generate code that will generate a windows batch file or linux .sh script.  On windows, all you need to do is double click the gif as seen in the video picture at the top of this page/ 
 
 
