@@ -5,7 +5,7 @@
 Enough is enough, seneca college IPC144 Milestone 4 is by far the biggest time wasting assignment of my life.
 Given i am already an experienced programmer suffering away in BS classes, i went out of my way to create a program that will automatically type out ALL 110 inputs correctly directly into the Milestone 4 ssh terminal. 
 
-**How it works and Insturctions**
+**What to do and Insturctions**
 
 
 You need to download from the link provided below. You will download a zip file and there is a txt file containing detailed instructions. 
