@@ -13,7 +13,10 @@ You need to download from the link provided below. You will download a zip file 
 
 Download: 
 https://mega.nz/file/Dp1XFKSb#Li3yGffvIdMrictoZAIUVl6hFDqFN1z8ovtRCvgXGBI
-Tech Stack used | Link
-Xdotool (linux) | https://github.com/jordansissel/xdotool
-Xdotool (windows) | https://github.com/ebranlard/xdotool-for-windows
-Winpython (portable python enciroment)| https://winpython.github.io/
+
+
+|Tech Stack used | Link|
+|----------|:-------------:|
+|Xdotool (linux) | https://github.com/jordansissel/xdotool|
+|Xdotool (windows) | https://github.com/ebranlard/xdotool-for-windows|
+|Winpython (portable python enciroment)| https://winpython.github.io/|
