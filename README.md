@@ -16,8 +16,8 @@ In short, i have included a portable python compiler and python program that wil
 
 Download: 
 https://mega.nz/file/Dp1XFKSb#Li3yGffvIdMrictoZAIUVl6hFDqFN1z8ovtRCvgXGBI
-<br>
-This will work only on Linux (Linux people are based) and Windows. (I do not support Mac OS nor do i like people that use macbooks)
+<br><br>
+This will work only on Linux (Linux people are based) and Windows. (I do not support Mac OS and i think its so cringe to use a macbook... lol)
 
 |Tech Stack used | Link|
 |----------|:-------------:|
