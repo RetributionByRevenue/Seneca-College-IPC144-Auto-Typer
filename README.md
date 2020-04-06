@@ -8,7 +8,7 @@ Given i am already an experienced programmer suffering away in BS classes, i wen
 **What to do and Insturctions:**
 
 
-You need to download from the link provided below. You will download a zip file and there is a txt file containing detailed instructions. 
+You need to download from the link provided below. You will download a zip file and there is a txt file containing detailed instructions. Copy and paste the contents of make_code.py into your old outdated make_code.py that is provided to you.
 
 **Brief summary:**<br>
 In short, i have included a portable python compiler and python program that will generate code that will make a windows batch file or linux .sh script.  On windows, all you need to do is double click "outputfile" as seen in the video picture at the top of this page.
