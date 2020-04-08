@@ -1,6 +1,6 @@
 # Seneca-College-IPC144-Auto-Typer
 **Gif too small to see on mobile view!!!***
-![](https://github.com/RetributionByRevenue/Seneca-College-IPC144-Auto-Typer/blob/master/test2.gif?raw=true)
+![](https://github.com/RetributionByRevenue/Seneca-College-IPC144-Auto-Typer/blob/master/github_display.gif?raw=true)
 
 Enough is enough, seneca college IPC144 Milestone 4 is by far the biggest time wasting assignment of my life.
 Given i am already an experienced programmer suffering away in BS classes, i went out of my way to create a program that will automatically type out ALL 110 inputs correctly directly into the Milestone 4 ssh terminal. 
