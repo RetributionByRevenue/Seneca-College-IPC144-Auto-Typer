@@ -19,8 +19,8 @@ https://mega.nz/file/ipsVhKpQ#ipsht1kk7gJyTkq6y9Y9r7kdGZeuK-lwkS6yXXSA91Y
 <br><br>
 This will work only on Linux (Linux people are based) and Windows. (I do not support Mac OS and i think its so cringe to use a macbook... lol)
 <br>**How To Use**<br>
-![](https://github.com/RetributionByRevenue/Seneca-College-IPC144-Auto-Typer/blob/master/demo1.gif?raw=true)<br>
-![](https://github.com/RetributionByRevenue/Seneca-College-IPC144-Auto-Typer/blob/master/demo2.gif?raw=true)
+![](https://github.com/RetributionByRevenue/Seneca-College-IPC144-Auto-Typer/blob/master/demo1.JPG?raw=true)<br>
+![](https://github.com/RetributionByRevenue/Seneca-College-IPC144-Auto-Typer/blob/master/demo2.JPG?raw=true)
 |Tech Stack used | Link|
 |----------|:-------------:|
 |Xdotool (linux) | https://github.com/jordansissel/xdotool|
