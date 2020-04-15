@@ -25,4 +25,4 @@ This will work only on Linux (Linux people are based) and Windows. (I do not sup
 |----------|:-------------:|
 |Xdotool (linux) | https://github.com/jordansissel/xdotool|
 |Xdotool (windows) | https://github.com/ebranlard/xdotool-for-windows|
-|Winpython (portable python enciroment)| https://winpython.github.io/|
+|Winpython (portable python enviroment)| https://winpython.github.io/|
