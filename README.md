@@ -2,9 +2,15 @@
 **Gif too small to see on mobile view!!!***
 ![](https://github.com/RetributionByRevenue/Seneca-College-IPC144-Auto-Typer/blob/master/github_display.gif?raw=true)
 
-Enough is enough, seneca college IPC144 Milestone 4 is by far the biggest time wasting assignment of my life.
-Given i am already an experienced programmer suffering away in BS classes, i went out of my way to create a program that will automatically type out ALL 110 inputs correctly directly into the Milestone 4 ssh terminal. 
+Enough is enough, seneca college IPC144 Milestone 4 is by far the biggest time wasting assignment.
+Because i have ADHD, typing the the correct inputs for IPC144 can be a very difficult task that will surely take dozens of attempts.
+Moreover, i am already an experienced programmer looking for a real challenge, i went out of my way to create a program that will automatically type out ALL 110 inputs correctly directly into the Milestone 4 ssh terminal. 
 
+**April 20 Update**<br>
+**C Programming Section:**<br>
+I have ported my python script into C language! This means you can run this C program on Visual Studio that we downloaded in class.  My C program called "make_output.c" will generate a windows batch file that will Automatically type all desired inputs into the ssh matrix!!!
+
+**Python Programming Section:**<br>
 **What to do and Insturctions:**
 
 
