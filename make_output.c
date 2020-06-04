@@ -150,6 +150,8 @@ else{
 printf("xdotool key %c\n",my_str[counter]);
 }
 counter=counter+1;
+//sleep currently the sleep is set for 0.2 seconds, change the 200 to influnce the sleep value.
+printf("echo WScript.Sleep 200 > %temp%\sleep.vbs & cscript %temp%\sleep.vbs %sleepMs% //B & del %temp%\sleep.vbs");
 }
 
 return 0;
