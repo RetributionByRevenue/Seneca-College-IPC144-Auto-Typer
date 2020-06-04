@@ -7,6 +7,8 @@ int main (int argc, const char * argv[])
 printf("pre-tee\n");
 //***
 //MAKE SURE YOU HAVE XDOTOOL.EXE IN SAME DIRECTORY OF THIS C PROGRAM!!!
+//Download from here if you don't have XDOTOOL.EXE:
+//https://github.com/ebranlard/xdotool-for-windows/tree/master/_bin
 //***
 //tee concept introduced in ULI101, using the same concept in C programming language
 //compiled with GCC
@@ -132,8 +134,8 @@ printf("%d\n", i);
 
 if(dup2(fileno(popen("tee outputfile.bat", "w")), STDOUT_FILENO) < 0) {
 	fprintf(stderr, "couldn't redirect output\n");
-	return 1;//All printf statements will be saved to a file after this line
-}
+	return 1;
+}//All printf statements will be saved to a file after this line
 printf("\n");
 printf("@echo off\n:: you have 5 seconds to click on the terminal\nTIMEOUT 4\n");
 int counter = 0;
@@ -151,6 +153,7 @@ printf("xdotool key %c\n",my_str[counter]);
 }
 counter=counter+1;
 //sleep currently the sleep is set for 0.2 seconds, change the 200 to influnce the sleep value.
+//to disable sleep before each input, comment out this code.
 printf("echo WScript.Sleep 200 > %temp%\sleep.vbs & cscript %temp%\sleep.vbs %sleepMs% //B & del %temp%\sleep.vbs");
 }
 
