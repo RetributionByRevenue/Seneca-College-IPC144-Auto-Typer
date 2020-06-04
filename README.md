@@ -13,7 +13,7 @@ I have ported my python script into C language! This means you can run this C pr
 **Python Programming Section:**<br>
 **What to do and Insturctions:**<br>
 You need to download from the link provided below. You will download a zip file and there is a txt file containing detailed instructions. Copy and paste the contents of make_code.py into your old outdated make_code.py that is provided to you.
-Python code preview: https://ghostbin.co/paste/xashc<br>
+Python code preview (Python + Linux implementation): https://ghostbin.co/paste/xashc<br>
 **Brief summary:**<br>
 In short, i have included a portable python compiler and python program that will generate code that will make a windows batch file or linux .sh script.  On windows, all you need to do is double click "outputfile" as seen in the video picture at the top of this page.<br>
 **Download:** 
