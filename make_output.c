@@ -127,34 +127,31 @@ n
 y
 ?)";
 
+for (i = 0; my_str[i] != '\0'; ++i) {
+  printf("%d\n", i);
+} //for loop used for getting the length of the string
 
-for (i = 0; my_str[i] != '\0'; ++i){
-printf("%d\n", i);
-}//for loop used for getting the length of the string
-
-if(dup2(fileno(popen("tee outputfile.bat", "w")), STDOUT_FILENO) < 0) {
-	fprintf(stderr, "couldn't redirect output\n");
-	return 1;
-}//All printf statements will be saved to a file after this line
+if (dup2(fileno(popen("tee outputfile.bat", "w")), STDOUT_FILENO) < 0) {
+  fprintf(stderr, "couldn't redirect output\n");
+  return 1;
+} //All printf statements will be saved to a file after this line
 printf("\n");
 printf("@echo off\n:: you have 5 seconds to click on the terminal\nTIMEOUT 4\n");
 int counter = 0;
 
-while (counter<i){
-if (my_str[counter] == ' '){
-printf("xdotool key +' '\n");
-}
-else if (my_str[counter] == '\n'){
-printf("xdotool key + \"\{ENTER\}\"");
-printf("\n");
-}
-else{
-printf("xdotool key %c\n",my_str[counter]);
-}
-counter=counter+1;
-//sleep currently the sleep is set for 0.2 seconds, change the 200 to influnce the sleep value.
-//to disable sleep before each input, comment out this code.
-printf("echo WScript.Sleep 200 > %temp%\sleep.vbs & cscript %temp%\sleep.vbs %sleepMs% //B & del %temp%\sleep.vbs");
+while (counter < i) {
+  if (my_str[counter] == ' ') {
+    printf("xdotool key +' '\n");
+  } else if (my_str[counter] == '\n') {
+    printf("xdotool key + \"\{ENTER\}\"");
+    printf("\n");
+  } else {
+    printf("xdotool key %c\n", my_str[counter]);
+  }
+  counter = counter + 1;
+  //sleep currently the sleep is set for 0.2 seconds, change the 200 to influnce the sleep value.
+  //to disable sleep before each input, comment out this code.
+  printf("echo WScript.Sleep 200 > %temp%\sleep.vbs & cscript %temp%\sleep.vbs %sleepMs% //B & del %temp%\sleep.vbs");
 }
 
 return 0;
