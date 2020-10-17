@@ -2,7 +2,7 @@
 **Gif too small to see on mobile view!!!***
 ![](https://github.com/RetributionByRevenue/Seneca-College-IPC144-Auto-Typer/blob/master/github_display.gif?raw=true)
 
-Questions about how to use? DM me on Instagram @slay_the_normies
+**Questions about how to use? DM me on Instagram @slay_the_normies**
 
 Enough is enough, seneca college IPC144 Milestone 4 is by far the longest programming assignment of my life.
 I have ADHD, typing the correct inputs for IPC144 can be a very difficult task that will surely take dozens of attempts.
